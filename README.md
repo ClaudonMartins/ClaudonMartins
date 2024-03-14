@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ClaudonMartins
 - 👀 I’m interested in a new career
-- 🌱 I’m currently learning nothing but i will start with Python and Node.js
+- 🌱 I’m currently doing a graduation (Data Science) and learning about Python, R and Power BI
 - 💞️ I’m looking to collaborate (not now. i'm starting now)
 - 📫 How to reach me: claudon.martins@gmail.com
 
